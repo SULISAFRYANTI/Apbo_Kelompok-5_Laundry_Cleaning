@@ -5,6 +5,13 @@ Jasa Laundry merupakan pengelola jasa dalam mencuci pakaian dan barang yang tela
 1. Admin
 2. Karyawan
 3. Pelanggan
+
+# Entity Relationship Diagram
+![ERD APBO](https://github.com/AZHRaihan/Apbo_Laundry_Cleaning/assets/145973780/bf9b8a8c-18cf-4226-8105-cc29ab77f668)
+
+# Class Diagram
+![apbo DCRev drawio](https://github.com/AZHRaihan/Apbo_Laundry_Cleaning/assets/145973780/f74d9d32-a5be-4543-a560-65ec5e58f6c6)
+
 # Link Wireframe FIGMA
 https://www.figma.com/file/ovHdqumGDqVwBBynxrCkCm/Untitled?type=design&node-id=0%3A1&mode=design&t=fWv6w8FNJto0tbc7-1
 
