@@ -7,3 +7,5 @@ Jasa Laundry merupakan pengelola jasa dalam mencuci pakaian dan barang yang tela
 3. Pelanggan
 # Link Wireframe FIGMA
 https://www.figma.com/file/ovHdqumGDqVwBBynxrCkCm/Untitled?type=design&node-id=0%3A1&mode=design&t=fWv6w8FNJto0tbc7-1
+
+# Kendala dalam Jasa Laundry 
