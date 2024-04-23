@@ -9,3 +9,5 @@ Jasa Laundry merupakan pengelola jasa dalam mencuci pakaian dan barang yang tela
 https://www.figma.com/file/ovHdqumGDqVwBBynxrCkCm/Untitled?type=design&node-id=0%3A1&mode=design&t=fWv6w8FNJto0tbc7-1
 
 # Kendala dalam Jasa Laundry 
+Jasa Laundry Prima tentu memiliki beberapa kendala salah satu nya masih menggunakan nota transaksi manual, hal ini tentu memiliki beberapa resiko seperti nota pelanggan yang hilang ataupun rusak. Sistem informasi yang dibuat dapat meminimalisir resiko tersebut, transaksi dalam Laundry Prima sudah bisa menggunakan pembayaran digital seperti Qris ataupun kartu debit 
+alangkah lebih baik jika nota pelanggan pun dapat dijadikan nota digital sehingga terdapat history transaksi dari kedua belah pihak.
