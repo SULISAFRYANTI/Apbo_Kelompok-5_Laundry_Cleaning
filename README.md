@@ -5,3 +5,5 @@ Jasa Laundry merupakan pengelola jasa dalam mencuci pakaian dan barang yang tela
 1. Admin
 2. Karyawan
 3. Pelanggan
+# ERD
+![image](https://github.com/AZHRaihan/Apbo_Laundry_Cleaning/assets/145907307/6646a507-3443-4d84-909a-68326f27c3b5)
