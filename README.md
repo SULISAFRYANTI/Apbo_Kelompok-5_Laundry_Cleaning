@@ -11,6 +11,8 @@ Jasa Laundry merupakan pengelola jasa dalam mencuci pakaian dan barang yang tela
 
 # Class Diagram
 ![apbo DCRev drawio](https://github.com/AZHRaihan/Apbo_Laundry_Cleaning/assets/145973780/f74d9d32-a5be-4543-a560-65ec5e58f6c6)
+# Link ppt Canva
+https://www.canva.com/design/DAGDOtYkN84/KdYgVUEkXjNGbuKZsFG1eQ/edit?utm_content=DAGDOtYkN84&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 # Link Wireframe FIGMA
 https://www.figma.com/file/ovHdqumGDqVwBBynxrCkCm/Untitled?type=design&node-id=0%3A1&mode=design&t=fWv6w8FNJto0tbc7-1
