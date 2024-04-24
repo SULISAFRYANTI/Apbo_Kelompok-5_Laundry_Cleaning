@@ -1,3 +1,9 @@
+# Nama Kelompok:
+1. Sulis Afryanti Lubis (4522210024)
+2. Nadiyah Qasamah (4522210046)
+3. Mohammad Raihan Azhar (4522210048)
+4. Raihan Alfisa Saugi (4522210037)
+5. Hamdan Dzulfikar Makarim (4522210108)
 # Apbo_Laundry_Cleaning
 Jasa Laundry merupakan pengelola jasa dalam mencuci pakaian dan barang yang telah dititipkan oleh customer, dengan memiliki jenis cucian yang telah ditetapkan oleh pihak penyedia jasa dan waktu yang telah ditentukan. Namun pada kenyataan nya penyedia jasa sering kali melakukan kesalahan pada barang ataupun pakaian yang telah dititipkan oleh customer seperti adanya cacat, pudar, atau hilangnya pada pakaian maupun barang. Oleh karena itu, dibutuhkan nya sebuah sistem informasi untuk meminimalisir terjadi nya ketidakpuasan pelanggan terhadap mitra dan menghindari seperti permasalahan yang sering terjadi dan meningkatkan efisiensi antar pelanggan dan customer. 
 # Use case dan masing-masing aktor 
